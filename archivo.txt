@@ -1,0 +1,32 @@
+Nombre: Juanda
+Calificaciones: Guzman
+
+
+Nombre: Irma
+Calificaciones: Morales
+
+
+Nombre: ximena
+Calificaciones: 10
+
+
+Nombre: Mich
+Calificaciones: 10
+
+
+Nombre: Emma
+Calificaciones: 6
+
+
+Nombre: Joan
+Calificaciones: 9
+
+
+Nombre: Joan
+Calificaciones: 9
+
+
+Nombre: Miriam
+Calificaciones: 5
+
+
